@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I'm Julia! 👋
 
-<!--
-**JuliaStP/juliastp** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate learner and aspiring developer, currently exploring the realm of frontend, and diving into the exciting world of Node.js.
 
-Here are some ideas to get you started:
+🌱 I'm currently learning Node.js and expanding my knowledge in web development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 I'm open to opportunities and collaborations in the field of web development.
+
+📫 You can reach me via [email](mailto:andreeva_julia@hotmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/julia-a-a4177241/).
+
+⚡ Fun fact: I enjoy coding while sipping on a cup of coffee and listening to lo-fi beats.
+
+May your code compile and your dreams take flight! 🚀✨
